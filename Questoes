@@ -1,0 +1,25 @@
+1 - Faça um programa em Python que receba como entrada dois números e imprima a soma deles.
+
+2 - Escreva um programa em Python que receba como entrada um valor em nanogramas e imprima o valor em microgramas
+(1 nanograma = 0,001 micrograma).
+
+3 - Escreva um programa em Python que leia as horas, minutos e segundos do usuário e imprima a quantidade total de segundos.
+
+4 - Escreva um programa que calcule o aumento de salário. Ele deve solicitar o valor do salário e a porcentagem do aumento.
+Ao fim da execução, imprima o valor do aumento e o salário atualizado.
+
+5 - Dada a expressão abaixo de conversão de temperatura, escreva um programa que leia uma temperatura em C°
+converta para F°: F=(9 ×C)/5+32
+
+6 - Seu laboratório decidiu alugar um servidor para realizar análises bioinformáticas. O preço cobrado pela empresa de
+servidores é R$ 40,00 por dia de utilização e mais R$ 0,05 por megabyte ocupado de armazenamento (1 terabyte = 10242 megabytes).
+Escreva um código que pergunte a quantidade de dias de utilização do servidor e quantos terabytes foi usado pelo cliente
+e calcule o preço a pagar. Qual o valor a ser pago para um usuário que ficou 2 anos utilizando o servidor e
+ocupou 5 terabytes de armazenamento?
+
+7 - Escreva um programa para calcular a redução do tempo de vida de um fumante. Pergunte a quantidade de cigarros fumados
+por dia e há quantos anos ele é fumante. Considerando que um fumante perde 10 minutos de vida a cada cigarro, calcule
+quantos dias de vida um fumante perderá. Exiba o total em dias.
+
+8 - Escreva um código onde: Pergunta para o usuário o nome completo do funcionário e o e-mail no formato
+“MATRICULA@empresa.br”. Imprima a seguinte mensagem “Funcionário: Aparecido da Silva; Matrícula: 01234; E-mail: 01234@empresa.br”.
